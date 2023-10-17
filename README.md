@@ -4,8 +4,4 @@
 - 📫 How to reach me linked in : linkedin.com/in/trojan-4x-10502a270
 
 
-<h1>hello</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5004&pause=1000&color=9C1414&background=71380800&random=false&width=435&lines=hello+%F0%9F%91%8B+My+name+is+kerolos+refaat" alt="Typing SVG" /></a>
